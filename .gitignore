@@ -13,3 +13,5 @@ compile_commands.json
 .vscode/
 *.swp
 
+# macOS system files
+.DS_Store
