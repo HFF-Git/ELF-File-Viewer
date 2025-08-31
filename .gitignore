@@ -1,0 +1,15 @@
+# Build directories
+build/
+bin/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# IDE files
+.vscode/
+*.swp
+
